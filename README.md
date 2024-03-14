@@ -1,5 +1,8 @@
 # cw3
 
+Link to app: https://salontamang.github.io/PWA-Vuejs-SFC/
+Link to repo: https://github.com/SalonTamang/PWA-Vuejs-SFC
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
